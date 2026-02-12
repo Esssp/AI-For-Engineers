@@ -69,10 +69,10 @@ Open the demo interface or POST to the API endpoint with a question. The system 
 
 ## Team
 
-Sai Spoorthy Eturu — Team lead, MLOps and deployment  
-Sahithi Rithvika — Data engineer, scraping and dataset management  
-Shivani — ML engineer, model design and evaluation  
-Hansika — Backend and frontend development
+Sai Spoorthy Eturu - Team lead, MLOps and deployment  
+Sahithi Rithvika Kataam - Data engineer, scraping and dataset management  
+Shivani Edigi - ML engineer, model design and evaluation  
+Hari Hansika Kommera - Backend and frontend development
 
 ## Development workflow
 
