@@ -56,7 +56,7 @@ AI-For-Engineers/
 
 Example commands
 
-1. git clone https://github.com/your-username/AI-For-Engineers.git  
+1. git clone https://github.com/Esssp/AI-For-Engineers.git  
 2. cd AI-For-Engineers  
 3. pip install -r requirements.txt  
 4. python scraper/scraper.py  
